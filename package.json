@@ -1,0 +1,19 @@
+{
+  "single-page-markdown-website": {
+    "baseUrl": "https://mariuszgorski.pl",
+    "title": "Mariusz Górski",
+    "description": "Create a nice single-page documentation website from one or more Markdown files",
+    "toc": false,
+    "sections": false,
+    "links": [
+      {
+        "text": "GitHub",
+        "url": "https://github.com/mgorsk1"
+      },
+      {
+        "text": "LinkedIn",
+        "url": "https://www.linkedin.com/in/gorskimariusz/"
+      }
+    ]
+  }
+}
